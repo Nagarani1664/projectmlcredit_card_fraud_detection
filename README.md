@@ -5,7 +5,7 @@ Project Objectives:
 
 Develop and evaluate machine learning models to accurately classify credit card transactions as fraudulent or legitimate.
 Address the challenge of imbalanced datasets, where fraudulent transactions are typically a small minority.
-Investigate and compare the performance of different machine learning algorithms (e.g., Logistic Regression, SVM, Random Forest, XGBoost).
+Investigate and compare the performance of different machine learning algorithms.
 Implement feature engineering techniques to improve model performance.
 Evaluate model performance using appropriate metrics (accuracy, precision, recall, F1-score, AUC-ROC).
 Project Structure:
